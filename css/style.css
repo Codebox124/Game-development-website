@@ -89,3 +89,17 @@
     border-radius: 30px;
 
 }
+.inline li{
+    list-style-type: none;
+    display: inline;
+    margin: 5px;
+    color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+.inline li a{
+    text-decoration: none;
+}
+.bgs{
+    background-color: rgb(42, 42, 148);
+}
